@@ -1,0 +1,52 @@
+.services {
+    background-color: #f0f0f0;
+    /* Background color for the section */
+    padding: 50px 0;
+    /* Adjust padding as needed */
+    text-align: center;
+    background-image: url(../../assets/image/newb.jpg);
+    opacity: 80%;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 5.5rem;
+    /* Adjust font size as needed */
+    margin-bottom: 20px;
+    /* Adjust spacing as needed */
+    color: rgb(121, 226, 128);
+}
+
+p {
+    font-size: 1.2rem;
+    /* Adjust font size as needed */
+    color: #555;
+    /* Text color */
+}
+
+.btn-learn-more {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    /* Button background color */
+    color: #fff;
+    /* Button text color */
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    /* Rounded button corners */
+    margin-top: 20px;
+    /* Adjust spacing as needed */
+}
+
+.services {
+    background-color: aqua;
+}
+
+body {
+    background-color: #de1cae6b;
+}
