@@ -7,9 +7,10 @@
 
 }
 
-body {
-	background-image: linear-gradient(rgb(117, 233, 58), rgb(231, 231, 121), rgb(119, 119, 231));
-}
+
+/* body {
+	background-image: linear-gradient(rgb(33, 48, 223), rgb(228, 228, 30), rgb(16, 16, 228));
+} */
 
 html {
 	font-size: 10px;
@@ -75,6 +76,25 @@ p {
 .cta:hover {
 	color: white;
 	background-color: palevioletred;
+}
+
+.new {
+	display: inline-block;
+	padding: 10px 30px;
+	color: white;
+	background-color: transparent;
+	border: 2px solid palevioletred;
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	margin-top: 30px;
+	transition: .3s ease;
+	transition-property: background-color, color;
+}
+
+.new:hover {
+
+	background-color: blue;
 }
 
 .brand h1 {
@@ -267,8 +287,8 @@ p {
 	font-size: 4rem;
 	position: relative;
 	color: transparent;
-	animation: text_reveal .5s ease forwards;
-	animation-delay: 1s;
+	animation: text_reveal .8s ease forwards;
+	animation-delay: 2s;
 }
 
 #hero h1:nth-child(1) {
@@ -290,7 +310,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: palevioletred;
+	background-color: rgb(214, 122, 153);
 	animation: text_reveal_box 1s ease;
 	animation-delay: .5s;
 }
@@ -459,7 +479,7 @@ p {
 }
 
 #projects .project-item:hover .project-img img {
-	transform: scale(1.1);
+	transform: scale(2.1);
 }
 
 /* End Projects section */
@@ -572,7 +592,7 @@ p {
 
 /* Footer */
 #footer {
-	background-image: linear-gradient(60deg, #39323c 0%, #685563 100%);
+	background-image: linear-gradient(60deg, #15df36 0%, #3f05e2 100%);
 }
 
 #footer .footer {
@@ -603,12 +623,12 @@ p {
 }
 
 #footer .social-item img {
-	filter: grayscale(1);
+	filter: grayscale(0);
 	transition: .3s ease filter;
 }
 
 #footer .social-item:hover img {
-	filter: grayscale(0);
+	filter: grayscale(3);
 }
 
 #footer p {
