@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Click Effect</title>
+    <style>
+        /* Define the blinking animation */
+        @keyframes blink {
+            0% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        /* Style the button */
+        .blink-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            animation: none;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        /* Add the blinking animation on button click */
+        .blink-button.clicked {
+            animation: blink 1s linear;
+        }
+
+        /* Change button background color on hover */
+        .blink-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Button with the click effect -->
+    <button class="blink-button" onclick="addBlinkEffect()">Click Me</button>
+
+    <script>
+        // JavaScript function to add the "clicked" class to the button
+        function addBlinkEffect() {
+            const button = document.querySelector('.blink-button');
+            button.classList.add("clicked");
+            setTimeout(() => {
+                button.classList.remove('clicked');
+            }, 1000); // Remove the "clicked" class after 1 second (1000 milliseconds)
+        }
+    </script>
+</body>
+
+</html>
