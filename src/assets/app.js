@@ -36,7 +36,7 @@ $(document).ready(function () {
 
 	$(document).scroll(function () {
 		var scroll_position = $(window).scrollTop();
-		if (scroll_position > 250) {
+		if (scroll_position > 1000 / 2) {
 			$header.css('background-color', 'black');
 		} else {
 			$header.css('background-color', 'green');
