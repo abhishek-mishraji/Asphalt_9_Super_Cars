@@ -1,0 +1,6 @@
+Precedence of var in function
+
+L= Local var (1)
+E= EN-closed (2) == Function inside function
+G= Global (3)
+B= Build-in (4) # from matrh import pi

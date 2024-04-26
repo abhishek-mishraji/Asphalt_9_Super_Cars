@@ -1,0 +1,15 @@
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\bin\Debug\net8.0\visual_console.exe
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\bin\Debug\net8.0\visual_console.deps.json
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\bin\Debug\net8.0\visual_console.runtimeconfig.json
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\bin\Debug\net8.0\visual_console.dll
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\bin\Debug\net8.0\visual_console.pdb
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.AssemblyInfoInputs.cache
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.AssemblyInfo.cs
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.csproj.CoreCompileInputs.cache
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.sourcelink.json
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.dll
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\refint\visual_console.dll
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.pdb
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\visual_console.genruntimeconfig.cache
+C:\Users\abhia\Documents\LPU SEM -- 6\INTB402 MODERN WEB PROGRAMMING TOOLS AND TECHNIQUES\c#\visual_console\obj\Debug\net8.0\ref\visual_console.dll

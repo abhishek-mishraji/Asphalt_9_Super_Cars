@@ -1,0 +1,15 @@
+import turtle
+star = turtle.Turtle()
+sta = turtle.Turtle()
+
+sta.right(0)
+# sta.backward(200)
+# sta.forward(100)
+sta.dot(10)
+sta.fillcolor('blue')
+sta.pensize(5)
+sta.circle(50)
+sta.degrees(90)
+sta.down()
+sta.forward(100)
+turtle.done()
